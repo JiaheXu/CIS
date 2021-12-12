@@ -1,0 +1,30 @@
+/PA4-A-Debug
+The results for has been found after 11 iterations!
+Runtime is 5.142129898071289 seconds.
+/PA4-B-Debug
+The results for has been found after 42 iterations!
+Runtime is 44.66003775596619 seconds.
+/PA4-C-Debug
+The results for has been found after 49 iterations!
+Runtime is 54.368282079696655 seconds.
+/PA4-D-Debug
+The results for has been found after 43 iterations!
+Runtime is 48.88608002662659 seconds.
+/PA4-E-Debug
+The results for has been found after 45 iterations!
+Runtime is 48.728270053863525 seconds.
+/PA4-F-Debug
+The results for has been found after 38 iterations!
+Runtime is 40.547048807144165 seconds.
+/PA4-G-Unknown
+The results for has been found after 46 iterations!
+Runtime is 48.47833800315857 seconds.
+/PA4-H-Unknown
+The results for has been found after 50 iterations!
+Runtime is 52.20839285850525 seconds.
+/PA4-J-Unknown
+The results for has been found after 46 iterations!
+Runtime is 48.55504488945007 seconds.
+/PA4-K-Unknown
+The results for has been found after 30 iterations!
+Runtime is 33.57232093811035 seconds.

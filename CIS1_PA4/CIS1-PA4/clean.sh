@@ -1,0 +1,2 @@
+rm OUTPUT/*;
+rm EVAL/*;

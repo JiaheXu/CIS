@@ -1,0 +1,5 @@
+field	average	max	min	error_nums(%)
+c_k  	0.0	0.02	0.0	0.0
+s_k  	0.0	0.01	0.0	0.0
+sk_ck	0.0	0.0	0.0	0.0
+ 
