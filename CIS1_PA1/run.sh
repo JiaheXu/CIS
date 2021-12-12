@@ -1,0 +1,11 @@
+./main.py "DATA/" 0 0 "OUTPUT/" --eval True;
+./main.py "DATA/" 0 1 "OUTPUT/" --eval True;
+./main.py "DATA/" 0 2 "OUTPUT/" --eval True;
+./main.py "DATA/" 0 3 "OUTPUT/" --eval True;
+./main.py "DATA/" 0 4 "OUTPUT/" --eval True;
+./main.py "DATA/" 0 5 "OUTPUT/" --eval True;
+./main.py "DATA/" 0 6 "OUTPUT/" --eval True;
+./main.py "DATA/" 1 7 "OUTPUT/" --eval True;
+./main.py "DATA/" 1 8 "OUTPUT/" --eval True;
+./main.py "DATA/" 1 9 "OUTPUT/" --eval True;
+./main.py "DATA/" 1 10 "OUTPUT/" --eval True;
